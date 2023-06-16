@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Accepted poster for the Cognitive Computational Neuroscience conference, Oxford
+:sparkles: Accepted poster for the Cognitive Computational Neuroscience conference, Oxford
 + Structured Credit Assignment in Mice: Kevin Miller, **Laurence Freeman**, Yu Jin Oh, Matthew Botvinick and Kenneth Harris.
