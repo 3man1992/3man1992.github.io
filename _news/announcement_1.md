@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Accepted Poster at the CCN (Cognitive Computational Neuroscience) conference in Oxford
+Accepted poster for the Cognitive Computational Neuroscience conference, Oxford
++ Kevin Miller, Laurence Freeman, Yu Jin Oh, Matthew Botvinick and Kenneth Harris.
